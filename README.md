@@ -55,7 +55,7 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
   <a href="https://github.com/Cleyton-Nobre?tab=repositories">
     <img src="https://img.shields.io/badge/Ver%20todos%20os%20meus%20projetos-1f222e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>>
+</div>
 
 ---
 
