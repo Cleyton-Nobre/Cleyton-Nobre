@@ -35,18 +35,31 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 ---
 
 
-### 📂 Repositórios em Destaque
+### 📂 Repositórios Machine Learning
+
+<div align="center">
+
+  <a href="https://github.com/Cleyton-Nobre/ML_JusCash">
+    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=ML_JusCash&theme=dracula&description_lines_count=4" alt="ML JusCash" />
+  </a>
+  
+  <a href="https://github.com/Cleyton-Nobre/Churn-Car-Rent">
+    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Churn-Car-Rent&theme=dracula&description_lines_count=4" alt="DevOps" />
+  </a>
+</div>
+
+### 📂 Repositórios Devops
+
 
 <div align="center">
   <a href="https://github.com/Cleyton-Nobre/Desafio-Fundep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Desafio-Fundep&theme=dracula" />
+    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Desafio-Fundep&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
   </a>
-  <a href="https://github.com/Cleyton-Nobre/ML_JusCash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=ML_JusCash&theme=dracula" />
-  </a>
+  
   <a href="https://github.com/Cleyton-Nobre/Devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Devops&theme=dracula" />
+    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Devops&theme=dracula&description_lines_count=4" alt="DevOps" />
   </a>
+ 
 </div>
 
 <br/>
@@ -71,10 +84,10 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Nobre&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do Cleyton" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cleyton-Nobre&show=reviews,prs_merged&show_icons=true&theme=dracula" alt="Estatísticas Detalhadas do Cleyton" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Nobre&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton-Nobre&layout=donut&theme=dracula" alt="Linguagens mais usadas" />
   </a>
 </div>
 
