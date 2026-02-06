@@ -40,11 +40,11 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 <div align="center">
 
   <a href="https://github.com/Cleyton-Nobre/ML_JusCash">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=ML_JusCash&theme=dracula&description_lines_count=4" alt="ML JusCash" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=ML_JusCash&theme=dracula&description_lines_count=4" alt="ML JusCash" />
   </a>
   
   <a href="https://github.com/Cleyton-Nobre/Churn-Car-Rent">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Churn-Car-Rent&theme=dracula&description_lines_count=4" alt="DevOps" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Churn-Car-Rent&theme=dracula&description_lines_count=4" alt="DevOps" />
   </a>
 </div>
 
@@ -53,11 +53,11 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
   <a href="https://github.com/Cleyton-Nobre/Desafio-Fundep">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Desafio-Fundep&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Desafio-Fundep&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
   </a>
   
   <a href="https://github.com/Cleyton-Nobre/Devops">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Devops&theme=dracula&description_lines_count=4" alt="DevOps" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Devops&theme=dracula&description_lines_count=4" alt="DevOps" />
   </a>
  
 </div>
@@ -67,7 +67,7 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
   <a href="https://github.com/Cleyton-Nobre/robo_sumo">
-    <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=robo_sumo&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=robo_sumo&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
   </a>
   
 </div>
@@ -76,7 +76,7 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
   <a href="https://github.com/Cleyton-Nobre?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20todos%20os%20meus%20projetos-1f222e?style=for-the-badge&logo=github&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Ver%20todos%20os%20meus%20projetos-1f222e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
