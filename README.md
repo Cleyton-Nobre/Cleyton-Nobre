@@ -67,7 +67,7 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
   <a href="https://github.com/Cleyton-Nobre/robo_sumo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=robo_sumo&theme=dracula&description_lines_count=4" alt="Desafio Fundep" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=robo_sumo&theme=dracula&description_lines_count=4" alt="Robo Sumo" />
   </a>
   
 </div>
