@@ -39,6 +39,10 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 <div align="center">
 
+  <a href="https://github.com/Cleyton-Nobre/MLops">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=MLops&theme=dracula&description_lines_count=4" alt="MLops" />
+  </a>
+
   <a href="https://github.com/Cleyton-Nobre/ML_JusCash">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=ML_JusCash&theme=dracula&description_lines_count=4" alt="ML JusCash" />
   </a>
