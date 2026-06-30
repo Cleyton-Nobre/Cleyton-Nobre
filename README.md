@@ -34,6 +34,19 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 
 ---
 
+### 📂 Repositórios Otimização
+
+<div align="center">
+
+  <a href="https://github.com/Cleyton-Nobre/AGs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=AGs&theme=dracula&description_lines_count=4" alt="MLops" />
+  </a>
+  
+  <a href="https://github.com/Cleyton-Nobre/TeoriaDecisao">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=TeoriaDecisao&theme=dracula&description_lines_count=4" alt="DevOps" />
+  </a>
+</div>
+
 
 ### 📂 Repositórios Machine Learning
 
