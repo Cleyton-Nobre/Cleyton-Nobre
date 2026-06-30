@@ -39,11 +39,11 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
 <div align="center">
 
   <a href="https://github.com/Cleyton-Nobre/AGs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=AGs&theme=dracula&description_lines_count=4" alt="MLops" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=AGs&theme=dracula&description_lines_count=4" alt="Algoritmos Genéticos" />
   </a>
   
   <a href="https://github.com/Cleyton-Nobre/TeoriaDecisao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=TeoriaDecisao&theme=dracula&description_lines_count=4" alt="DevOps" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=TeoriaDecisao&theme=dracula&description_lines_count=4" alt="Tomada de Decisão" />
   </a>
 </div>
 
