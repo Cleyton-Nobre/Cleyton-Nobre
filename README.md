@@ -61,8 +61,13 @@ Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learni
   </a>
   
   <a href="https://github.com/Cleyton-Nobre/Churn-Car-Rent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Churn-Car-Rent&theme=dracula&description_lines_count=4" alt="DevOps" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=Churn-Car-Rent&theme=dracula&description_lines_count=4" alt="Churn-Car-Rent" />
   </a>
+
+  <a href="https://github.com/Cleyton-Nobre/inadiplencia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cleyton-Nobre&repo=inadiplencia&theme=dracula&description_lines_count=4" alt="inadiplencia" />
+  </a>
+  
 </div>
 
 ### 📂 Repositórios Devops
