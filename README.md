@@ -4,7 +4,7 @@
 
 💻 **Cientista de Dados**
 
-Sou Engenheiro de Sistemas pela UFMG com experiência prática em Machine Learning e Ciência de Dados aplicados a cenários complexos (Siderurgia e Saúde). Expertise no desenvolvimento de modelos preditivos utilizando Redes Neurais Profundas, Árvores de Decisão, LLM, SLM e Lógica Fuzzy. Profissional com forte viés em MLOps e Engenharia de Dados, dominando Linux, Docker e Cloud (AWS)  para garantir o deploy, a produção e a escalabilidade de modelos de IA, integrando análise avançada à eficiência operacional.
+Engenheiro de Sistemas pela UFMG e Mestrando em Ciência da Computação, com experiência prática em Machine Learning e Ciência de Dados aplicados a cenários complexos de siderurgia e saúde. Expertise no desenvolvimento de modelos preditivos com Redes Neurais Profundas, Árvores de Decisão, LLMs, SLMs e Lógica Fuzzy, além de sólida base em otimização não linear e algoritmos evolutivos/genéticos (multiobjetivo, NSGA-II) aplicados a problemas de tomada de decisão e alocação eficiente de recursos. Profissional com forte viés em MLOps e Engenharia de Dados, dominando Linux, Docker e Cloud (AWS) para garantir deploy, produção e escalabilidade de modelos de IA — integrando análise avançada, otimização e tomada de decisão à eficiência operacional do negócio.
 
 ---
 
